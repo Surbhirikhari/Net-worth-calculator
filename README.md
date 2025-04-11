@@ -30,6 +30,8 @@ A simple and interactive Streamlit app that helps you estimate how many years it
 
 ```bash
 pip install streamlit
+```
+```bash
 streamlit run net_worth_calculator.py
  
   
