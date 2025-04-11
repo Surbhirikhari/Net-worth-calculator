@@ -3,7 +3,7 @@
 A simple and interactive Streamlit app that helps you estimate how many years it will take to reach ₹8.5 Crore (₹85,000,000) based on your current net worth and investment allocations.
 
 ---
-##Demo
+## Demo
 ![Welcome Screen](first.png)
 
 ![Input Section](second.png)
