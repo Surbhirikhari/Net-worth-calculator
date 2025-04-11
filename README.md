@@ -4,13 +4,13 @@ A simple and interactive Streamlit app that helps you estimate how many years it
 
 ---
 ## Demo
-<h2>Homepage</h2>
+<h2>Risk suggestion</h2>
 <img src="assets/first.png" width="600"/>
 
-<h2>Example 1</h2>
+<h2>Input section</h2>
 <img src="assets/second.png" width="600"/>
 
-<h2>Example 2</h2>
+<h2>Result display</h2>
 <img src="assets/third.png" width="600"/>
 
 
