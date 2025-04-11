@@ -33,6 +33,3 @@ pip install streamlit
 ```
 ```bash
 streamlit run net_worth_calculator.py
- 
-  
-
