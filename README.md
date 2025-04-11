@@ -20,9 +20,9 @@ A simple and interactive Streamlit app that helps you estimate how many years it
 
 ## 🚀 How to Run
 
-1. Clone this repository:
+1. Clone this repository.
 2.Make sure you have **Python** installed.  
-3.Install **Streamlit** if you haven't already:
+3.Install **Streamlit** if you haven't already.
 
 ```bash
 pip install streamlit
