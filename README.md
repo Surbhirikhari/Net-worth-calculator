@@ -1,6 +1,6 @@
 # 📈 Net Worth Growth Calculator
 
-A simple and interactive Streamlit app that helps you estimate how many years it will take to reach ₹8.5 Crore (₹85,000,000) based on your current net worth and investment allocations.
+A simple and interactive Streamlit app that helps you estimate how many years it will take to become a millionaire based on your current net worth and investment allocations.
 
 ---
 ## Demo
