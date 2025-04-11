@@ -4,11 +4,11 @@ A simple and interactive Streamlit app that helps you estimate how many years it
 
 ---
 ##Demo
-![Welcome Screen](assets/first.png)
+![Welcome Screen](first.png)
 
-![Input Section](assets/second.png)
+![Input Section](second.png)
 
-![Result Display](assets/third.png)
+![Result Display](third.png)
 
 ## ✨ Features
 - Risk-based investment allocation suggestions (Low, Medium, High)
